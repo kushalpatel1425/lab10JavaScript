@@ -1,0 +1,63 @@
+{
+  "companyName": "I Scream Inc.",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "sorbet",
+      "ingredients": [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Stupendous Strawberry",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Blueberry",
+      "calories": 380,
+      "type": "ice cream",
+      "ingredients": [
+        "blueberries",
+        "cream",
+        "sugar"
+      ],
+      "image": "ice-cream-xtra3.svg"
+    },
+    {
+      "name": "Mango",
+      "calories": 320,
+      "type": "ice cream",
+      "ingredients": [
+        "ripe mangoes",
+        "coconut milk",
+        "lime juice"
+      ],
+      "image": "ice-cream-xtra4.svg"
+    }
+  ]
+}
